@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map For BluetoothLib
+####################################### 
+# Class
+#######################################
+
+Serial_Input	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################	
+
+getCmd	KEYWORD2
+getSerial	KEYWORD2
+getData	KEYWORD2
+
+
+
+
